@@ -22,6 +22,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NnIwODBhajFzdW8xdDNwdGxzMWpwbThqcnMgaXJ5bmEuc2h5Z2luc2thMjAxMkBt&amp;tmsrc=iryna.shyginska2012%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_uk.gif"></a>
 
 [Link](url) and ![Image](src)
 ```
