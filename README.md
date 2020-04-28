@@ -1,5 +1,5 @@
 ## Запрошення пройти опитування в Google Forms
-[link](https://docs.google.com/forms/d/e/1FAIpQLSdRPpPXwN97wjQfUBqPb9OiXRkNnvoX1Jk5Gxy8FXRpp0Y2-A/viewform?usp=sf_link)
+[Дистанційне навчання](https://docs.google.com/forms/d/e/1FAIpQLSdRPpPXwN97wjQfUBqPb9OiXRkNnvoX1Jk5Gxy8FXRpp0Y2-A/viewform?usp=sf_link)
 ## Подія в Google Calendar
 <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NnIwODBhajFzdW8xdDNwdGxzMWpwbThqcnMgaXJ5bmEuc2h5Z2luc2thMjAxMkBt&amp;tmsrc=iryna.shyginska2012%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_uk.gif"></a>
 ## Welcome to GitHub Pages
